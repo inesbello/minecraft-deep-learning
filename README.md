@@ -12,3 +12,6 @@ https://minerl.io/dataset/
 
 # Research Paper for MineRL
 https://arxiv.org/abs/2312.02405
+
+# Getting started tasks
+https://github.com/minerllabs/getting-started-tasks/
